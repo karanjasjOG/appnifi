@@ -1,6 +1,6 @@
-# Storematic Flutter
+# Appnifi
 
-A new Flutter application.
+An automated way to generate Woocommerce mobile apps using Flutter. 
 
 ## Work TODO
 
